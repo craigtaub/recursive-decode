@@ -1,0 +1,15 @@
+{
+  "name": "recursive-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/index.test.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/craigtaub/recursive-decode.git"
+  },
+  "author": "Craig Taub <craigtaub@gmail.com>",
+  "license": "ISC"
+}
