@@ -1,5 +1,4 @@
 function stringToDecode(myString){
-    var tmpString = myString;
     var decodedString = decodeURIComponent(myString);
 
     if (decodedString === myString) {
