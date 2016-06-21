@@ -2,7 +2,7 @@
   "name": "recursive-decode",
   "version": "1.0.0",
   "description": "Recursively decode any encoded string",
-  "keywords": "recursive, decode"
+  "keywords": "recursive, decode",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test/index.test.js",
